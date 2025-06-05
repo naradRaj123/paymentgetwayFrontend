@@ -14,7 +14,7 @@ const PrivacyPolicyPage = () => {
         
         <p className="lead text-lg text-muted-foreground">Last updated: {new Date().toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}</p>
 
-        <p>PayGate Hub ("us", "we", or "our") operates the PayGate Hub website and platform (the "Service"). This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.</p>
+        <p> ("us", "we", or "our") operates the  website and platform (the "Service"). This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.</p>
 
         <h2>1. Information Collection and Use</h2>
         <p>We collect several different types of information for various purposes to provide and improve our Service to you.</p>
@@ -32,7 +32,7 @@ const PrivacyPolicyPage = () => {
         <p>We may also collect information on how the Service is accessed and used ("Usage Data"). This Usage Data may include information such as your computer's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.</p>
 
         <h2>2. Use of Data</h2>
-        <p>PayGate Hub uses the collected data for various purposes:</p>
+        <p> uses the collected data for various purposes:</p>
         <ul>
           <li>To provide and maintain our Service</li>
           <li>To notify you about changes to our Service</li>

@@ -50,7 +50,7 @@ const MerchantLoginPage = () => {
               <Building size={40} />
             </div>
             <CardTitle className="text-3xl font-bold">Merchant Login</CardTitle>
-            <CardDescription>Access your PayGate Hub merchant account.</CardDescription>
+            <CardDescription>Access your  merchant account.</CardDescription>
           </CardHeader>
           <CardContent>
             <form onSubmit={handleSubmit} className="space-y-6">

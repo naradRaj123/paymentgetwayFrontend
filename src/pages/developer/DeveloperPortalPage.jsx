@@ -11,7 +11,7 @@ const WebhookIcon = (props) => <svg xmlns="http://www.w3.org/2000/svg" viewBox="
 
 const DeveloperPortalPage = () => {
   const apiDocs = [
-    { title: "Getting Started", description: "Overview of PayGate Hub API and authentication.", icon: <BookOpen/>, link: "#" },
+    { title: "Getting Started", description: "Overview of  API and authentication.", icon: <BookOpen/>, link: "#" },
     { title: "Payment APIs", description: "Integrate PayU and Razorpay for processing payments.", icon: <Zap/>, link: "#" },
     { title: "Webhook Guide", description: "Setup and manage webhooks for real-time notifications.", icon: <WebhookIcon/>, link: "#" },
     { title: "SDKs & Libraries", description: "Download our official SDKs for popular languages.", icon: <Download/>, link: "#" },
@@ -32,7 +32,7 @@ const DeveloperPortalPage = () => {
           Developer Portal
         </h1>
         <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-          Integrate PayGate Hub seamlessly into your applications with our comprehensive APIs, SDKs, and developer tools.
+          Integrate  seamlessly into your applications with our comprehensive APIs, SDKs, and developer tools.
         </p>
       </motion.section>
 

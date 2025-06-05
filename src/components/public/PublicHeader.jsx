@@ -97,9 +97,9 @@ const PublicHeader = ({ menuItems }) => {
             <div className="container mx-auto px-4 sm:px-6 lg:px-8">
                 <div className="flex items-center justify-between h-16">
                     <NavLink to="/home" className="flex items-center gap-2">
-                        <img  alt="PayGate Hub Logo" className="h-8 w-auto" src="https://images.unsplash.com/photo-1686140386811-099f53c0dd54" />
+                        <img  alt=" Logo" className="h-8 w-auto" src="https://digitaloasisindia.in/kk.jpg" />
                         <span className="text-xl font-bold bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">
-                            PayGate Hub
+                            
                         </span>
                     </NavLink>
                     

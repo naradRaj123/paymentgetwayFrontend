@@ -53,7 +53,7 @@ const Layout = () => {
         <div className="flex flex-col h-full">
           <div className="p-6 border-b border-slate-200 dark:border-slate-700">
             <h1 className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">
-              PayGate Hub
+              
             </h1>
             <p className="text-sm text-slate-500 dark:text-slate-400 mt-1">
               Payment Gateway Platform

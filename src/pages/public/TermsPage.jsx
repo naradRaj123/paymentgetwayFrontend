@@ -14,7 +14,7 @@ const TermsPage = () => {
         
         <p className="lead text-lg text-muted-foreground">Last updated: {new Date().toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}</p>
 
-        <p>Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before using the PayGate Hub website and platform (the "Service") operated by PayGate Hub ("us", "we", or "our").</p>
+        <p>Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before using the  website and platform (the "Service") operated by  ("us", "we", or "our").</p>
         <p>Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users, and others who access or use the Service.</p>
         <p>By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the terms then you may not access the Service.</p>
 
@@ -23,16 +23,16 @@ const TermsPage = () => {
         <p>You are responsible for safeguarding the password that you use to access the Service and for any activities or actions under your password, whether your password is with our Service or a third-party service.</p>
 
         <h2>2. Intellectual Property</h2>
-        <p>The Service and its original content, features, and functionality are and will remain the exclusive property of PayGate Hub and its licensors. The Service is protected by copyright, trademark, and other laws of both the United States and foreign countries.</p>
+        <p>The Service and its original content, features, and functionality are and will remain the exclusive property of  and its licensors. The Service is protected by copyright, trademark, and other laws of both the United States and foreign countries.</p>
 
         <h2>3. Links To Other Web Sites</h2>
-        <p>Our Service may contain links to third-party web sites or services that are not owned or controlled by PayGate Hub. PayGate Hub has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services.</p>
+        <p>Our Service may contain links to third-party web sites or services that are not owned or controlled by .  has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services.</p>
 
         <h2>4. Termination</h2>
         <p>We may terminate or suspend your account immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the Terms.</p>
 
         <h2>5. Limitation Of Liability</h2>
-        <p>In no event shall PayGate Hub, nor its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from your access to or use of or inability to access or use the Service.</p>
+        <p>In no event shall , nor its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from your access to or use of or inability to access or use the Service.</p>
         
         <h2>6. Governing Law</h2>
         <p>These Terms shall be governed and construed in accordance with the laws of Texas, United States, without regard to its conflict of law provisions.</p>

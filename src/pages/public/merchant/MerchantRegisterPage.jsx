@@ -70,7 +70,7 @@ const MerchantRegisterPage = () => {
               <UserPlus size={40} />
             </div>
             <CardTitle className="text-3xl font-bold">Create Merchant Account</CardTitle>
-            <CardDescription>Join PayGate Hub and start accepting payments.</CardDescription>
+            <CardDescription>Join  and start accepting payments.</CardDescription>
           </CardHeader>
           <CardContent>
             <form onSubmit={handleSubmit} className="space-y-6">

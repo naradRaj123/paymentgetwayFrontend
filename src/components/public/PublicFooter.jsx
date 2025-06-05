@@ -45,8 +45,8 @@ const PublicFooter = ({ menuItems }) => {
                 <div className="border-t border-border pt-8">
                     <div className="flex flex-col md:flex-row justify-between items-center">
                         <div className="flex items-center gap-2 mb-4 md:mb-0">
-                            <img  alt="PayGate Hub Logo" className="h-8 w-auto" src="https://images.unsplash.com/photo-1686140386811-099f53c0dd54" />
-                            <span className="text-lg font-semibold">PayGate Hub</span>
+                            <img  alt=" Logo" className="h-8 w-auto" src="https://digitaloasisindia.in/kk.jpg" />
+                            <span className="text-lg font-semibold"></span>
                         </div>
                         <div className="flex space-x-4 mb-4 md:mb-0">
                             {socialLinks.map(link => (
@@ -56,7 +56,7 @@ const PublicFooter = ({ menuItems }) => {
                             ))}
                         </div>
                         <p className="text-sm text-muted-foreground">
-                            &copy; {new Date().getFullYear()} PayGate Hub. All rights reserved.
+                            &copy; {new Date().getFullYear()} . All rights reserved.
                         </p>
                     </div>
                     <div className="mt-4 text-center md:text-right">

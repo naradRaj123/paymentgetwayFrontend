@@ -49,10 +49,10 @@ const LoginPage = () => {
         <Card className="w-full max-w-md shadow-2xl">
           <CardHeader className="text-center">
             <div className="mx-auto mb-4">
-              <img  alt="PayGate Hub Logo" class="h-12 w-auto" src="https://images.unsplash.com/photo-1686140386811-099f53c0dd54" />
+              <img  alt=" Logo" class="h-12 w-auto" src="https://digitaloasisindia.in/kk.jpg" />
             </div>
             <CardTitle className="text-3xl font-bold">Welcome Back</CardTitle>
-            <CardDescription>Sign in to access your PayGate Hub account.</CardDescription>
+            <CardDescription>Sign in to access your  account.</CardDescription>
           </CardHeader>
           <CardContent>
             <form onSubmit={handleSubmit} className="space-y-6">

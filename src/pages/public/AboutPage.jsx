@@ -12,7 +12,7 @@ const AboutPage = () => {
         transition={{ duration: 0.5 }}
       >
         <h1 className="text-4xl font-extrabold tracking-tight text-center mb-4 bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">
-          About PayGate Hub
+          About 
         </h1>
         <p className="text-xl text-muted-foreground text-center max-w-3xl mx-auto">
           We are dedicated to simplifying payment processing for businesses of all sizes, empowering them with robust tools and seamless integrations.

@@ -18,7 +18,7 @@ const BlogPage = () => {
         className="text-center"
       >
         <h1 className="text-4xl font-extrabold tracking-tight mb-4 bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">
-          PayGate Hub Blog
+           Blog
         </h1>
         <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
           Insights, news, and articles on digital payments, fintech, and business growth.

@@ -65,7 +65,7 @@ export const menuItems = {
         { title: "EBITDA Calculator", href: "/ebitda-calculator", description: "Calculate Earnings Before Interest, Taxes, Depreciation, and Amortization." },
     ],
     "Company": [
-        { title: "About Us", href: "/about", description: "Learn more about PayGate Hub." },
+        { title: "About Us", href: "/about", description: "Learn more about ." },
         { title: "Careers", href: "/careers", description: "Join our dynamic team." },
         { title: "Terms of Use", href: "/terms-and-conditions", description: "Read our terms of service." },
         { title: "Privacy Policy", href: "/privacy-policy", description: "Our commitment to your privacy." },

@@ -54,7 +54,7 @@ const HomePage = () => {
       {/* Hero Section */}
       <section className="text-center py-12 md:py-20 bg-gradient-to-br from-primary/5 via-background to-background rounded-xl">
         <motion.h1 
-          className="text-4xl sm:text-5xl md:text-6xl font-extrabold tracking-tight mb-6 bg-gradient-to-r from-blue-600 via-indigo-600 to-purple-600 bg-clip-text text-transparent"
+          className="text-4xl sm:text-5xl md:text-6xl font-extrabold tracking-tight mb-6 bg-gradient-to-r from-green-600 via-green-600 to-green-600 bg-clip-text text-transparent"
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5 }}
@@ -67,7 +67,7 @@ const HomePage = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5, delay: 0.2 }}
         >
-          PayGate Hub provides a comprehensive suite of payment solutions tailored for Indian businesses. From startups to large enterprises, simplify your financial operations with our robust and developer-friendly platform, supporting INR transactions and popular local payment methods.
+           provides a comprehensive suite of payment solutions tailored for Indian businesses. From startups to large enterprises, simplify your financial operations with our robust and developer-friendly platform, supporting INR transactions and popular local payment methods.
         </motion.p>
         <motion.div 
           className="flex flex-col sm:flex-row justify-center gap-4"
@@ -75,7 +75,7 @@ const HomePage = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5, delay: 0.4 }}
         >
-          <Button asChild size="lg" className="bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-700 hover:to-indigo-700 text-white shadow-lg hover:shadow-primary/40">
+          <Button asChild size="lg" className="bg-gradient-to-r from-green-600 to-green-600 hover:from-green-700 hover:to-lightgreen-700 text-white shadow-lg hover:shadow-primary/40">
             <NavLink to="/merchant/register">
               Create Merchant Account <ArrowRight className="ml-2 h-5 w-5" />
             </NavLink>
@@ -138,7 +138,7 @@ const HomePage = () => {
             <motion.div initial={{ opacity: 0, y: 20 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} transition={{ delay: 0.2 }}>
               <div className="mb-4 inline-flex items-center justify-center w-16 h-16 rounded-full bg-primary text-primary-foreground text-2xl font-bold">2</div>
               <h3 className="text-xl font-semibold mb-2">Integrate</h3>
-              <p className="text-muted-foreground">Use our SDKs, APIs, or plugins to connect PayGate Hub to your website or app.</p>
+              <p className="text-muted-foreground">Use our SDKs, APIs, or plugins to connect  to your website or app.</p>
             </motion.div>
             <motion.div initial={{ opacity: 0, y: 20 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} transition={{ delay: 0.3 }}>
               <div className="mb-4 inline-flex items-center justify-center w-16 h-16 rounded-full bg-primary text-primary-foreground text-2xl font-bold">3</div>
@@ -171,9 +171,9 @@ const HomePage = () => {
 
       {/* CTA Section */}
       <section className="text-center py-16 bg-gradient-to-r from-indigo-600 via-purple-600 to-pink-600 rounded-xl text-white">
-        <h2 className="text-3xl font-bold tracking-tight mb-4">Ready to Transform Your Business Payments?</h2>
+        <h2 className="text-3xl font-bold tracking-tight mb-4"></h2>
         <p className="text-indigo-100 mb-8 max-w-xl mx-auto">
-          Join thousands of Indian businesses choosing PayGate Hub for reliable, secure, and innovative payment solutions.
+          Join thousands of Indian businesses choosing  for reliable, secure, and innovative payment solutions.
         </p>
         <Button asChild size="lg" className="bg-white text-primary hover:bg-slate-100 shadow-xl">
           <NavLink to="/merchant/register">

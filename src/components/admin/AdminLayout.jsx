@@ -68,9 +68,9 @@ const AdminLayout = () => {
         <div className="flex flex-col h-full">
           <div className="p-6 border-b border-border dark:border-slate-700">
             <NavLink to="/" className="flex items-center gap-2">
-              <img  alt="PayGate Hub Logo" class="h-8 w-auto" src="https://images.unsplash.com/photo-1686140386811-099f53c0dd54" />
+              <img  alt=" Logo" class="h-8 w-auto" src="https://digitaloasisindia.in/kk.jpg" />
               <h1 className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">
-                PayGate Hub
+                
               </h1>
             </NavLink>
             <p className="text-xs text-muted-foreground mt-1">
